@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" styleClass="bodybg123" stylesheets="@styling.css" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="riverCrossingPack.CongratController">
+   <children>
+      <ImageView fitHeight="400.0" fitWidth="600.0">
+         <image>
+            <Image url="@../../../../New%20folder/end1.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="258.0" fitWidth="353.0" layoutX="124.0">
+         <image>
+            <Image url="@download.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="217.0" layoutY="308.0" mnemonicParsing="false" onAction="#onPressExit" styleClass="btn" stylesheets="@styling.css" text="Back to main menu" />
+   </children>
+</AnchorPane>

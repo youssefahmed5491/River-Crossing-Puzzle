@@ -1,0 +1,5 @@
+division of labour:
+Mahmoud: level 1 gui + story 1 + save and load with marawan 
+Marwan: level 2 gui + story 2 + save and load with mahmoud
+Youssef: all other gui + xml files
+Feky: design pattern + uml

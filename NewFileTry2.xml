@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Visibility>
+  <scene>
+    <IsVis farmer="false" farmer2="false" farmer3="false" farmer4="true" sheep="false" sheep2="false" sheep3="true" fatFarmer="false" fatFarmer2="false" fatFarmer3="false" fatFarmer4="true" ladyFarmer="false" ladyFarmer2="false" ladyFarmer3="false" ladyFarmer4="true" boyFarmer="false" boyFarmer2="false" boyFarmer3="false" boyFarmer4="true" boat="false" score="11" />
+  </scene>
+</Visibility>
